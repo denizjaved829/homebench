@@ -5,3 +5,4 @@ description = "Benchmark your local LLMs: speed, memory, and quality, in one com
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# drop an unused branch
